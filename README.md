@@ -30,7 +30,7 @@ perturbative-waveguide-toolkit/
 │
 ├── src/
 │   └── perturbative_waveguides/
-│
+│ 
 |── docs/
 │   └── images/
 |       └── lumerical_comparison.png
