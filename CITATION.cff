@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Perturbative Waveguide Toolkit"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Domínguez-Serna"
+    given-names: "Francisco A."
+
+  - family-names: "Aguayo-Alvarado"
+    given-names: "Ana Luisa"
+
+  - family-names: "Barboza Tello"
+    given-names: "Norma"
+  
+  - family-names: "De La Cruz Hernández"
+    given-names: "Wencel"
+
+  - family-names: "Garay Palmett"
+    given-names: "Karina"
+
+repository-code: "https://github.com/fdominguezserna/perturbative-waveguide-toolkit"
+
+license: "MIT"
+
+abstract: >
+  Python toolkit for perturbative effective-index calculations
+  in integrated photonic waveguides, including asymmetric slab
+  modal analysis and validation against Lumerical MODE simulations.
+
+keywords:
+  - photonics
+  - integrated photonics
+  - waveguides
+  - perturbation theory
+  - silicon nitride
+  - optics
+  - effective index
+  - modal analysis
+
+version: "0.1.0"
+date-released: 2026-05-23
