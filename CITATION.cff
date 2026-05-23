@@ -1,6 +1,9 @@
 cff-version: 1.2.0
+
 title: "Perturbative Waveguide Toolkit"
+
 message: "If you use this software, please cite it as below."
+
 type: software
 
 authors:
@@ -12,7 +15,7 @@ authors:
 
   - family-names: "Barboza Tello"
     given-names: "Norma"
-  
+
   - family-names: "De La Cruz Hernández"
     given-names: "Wencel"
 
@@ -21,7 +24,15 @@ authors:
 
 repository-code: "https://github.com/fdominguezserna/perturbative-waveguide-toolkit"
 
+url: "https://doi.org/10.5281/zenodo.20360060"
+
+doi: 10.5281/zenodo.20360060
+
 license: "MIT"
+
+version: "0.1.1"
+
+date-released: 2026-05-23
 
 abstract: >
   Python toolkit for perturbative effective-index calculations
@@ -32,11 +43,8 @@ keywords:
   - photonics
   - integrated photonics
   - waveguides
-  - perturbation theory
   - silicon nitride
   - optics
+  - perturbation theory
   - effective index
-  - modal analysis
-
-version: "0.1.0"
-date-released: 2026-05-23
+  - computational physics
