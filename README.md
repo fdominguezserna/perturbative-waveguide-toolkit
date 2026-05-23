@@ -1,5 +1,5 @@
 # Perturbative Waveguide Toolkit
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20360060.svg)](https://doi.org/10.5281/zenodo.20360060)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20360059.svg)](https://doi.org/10.5281/zenodo.20360059)
 A lightweight Python toolkit for perturbative effective-index calculations in integrated photonic waveguides.
 
 This repository implements perturbative modal analysis methods inspired by the treatment presented in:
